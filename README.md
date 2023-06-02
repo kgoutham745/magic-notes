@@ -1,13 +1,16 @@
-# Google Clone
-Welcome to the Google Clone repository! This repository contains the code for a website that replicates the functionality and design of the Google search engine. The Google Clone is built using HTML, CSS, and JavaScript, providing a similar user experience to the widely popular search engine.
+# Notes Manager App
+Welcome to the Notes Manager App repository! This repository contains the code for a web-based notes manager application built using JavaScript and the Local Storage API. The app allows users to create, edit, and delete notes, providing a convenient way to organize and manage their personal or professional information.
 
 ## Features
+**Note Creation**: Users can create new notes by providing a title and content for each note.
 
-**Search Functionality**: Users can enter their search queries in the search bar and receive search results.
+**Note Editing**: Existing notes can be edited, allowing users to update their content as needed.
 
-**Google Logo and Design**: The website emulates the Google logo and overall design aesthetic, creating a familiar and intuitive user interface.
+**Note Deletion**: Users can delete individual notes when they are no longer needed.
 
-**Responsive Design**: The website is responsive and adapts to different screen sizes, allowing for optimal user experience across devices.
+**Persistent Storage**: The app utilizes the Local Storage API to store notes locally in the user's browser, ensuring that notes are saved even if the page is refreshed or closed.
+
+**Bootstrap Styling**: The user interface of the app is styled using Bootstrap, providing a clean and responsive design.
 
 
 ## Usage:
@@ -15,21 +18,20 @@ To use CodexIO, follow these steps
 
 -Clone the repository to your local machine using the following command: 
 ```
-git clone https://github.com/kgoutham745/google-clone.git
+git clone https://github.com/kgoutham745/magic-notes.git
 ```
 
 -Open the index.html file in your preferred web browser.
 
--Use the search bar to enter your query.
+-Use the provided interface to create, edit, and delete notes.
 
--View the search results displayed on the search results page.
-
--Click on search results to navigate to the respective webpages.
+-Your notes will be automatically saved and loaded from the browser's Local Storage.
 
 
 ## Dependencies:
+The following dependencies are used in this project
 
-The Google Clone website does not have any external dependencies. It is built using HTML, CSS, and JavaScript only.
+-**Bootstrap**:The Bootstrap CSS and JS files are included in the repository for styling the user interface.
 
 
 ## Contribution:
@@ -50,3 +52,4 @@ Contributions to the CodexIO Online Compiler repository are welcome! If you want
 
 If you have any questions, suggestions, or feedback, feel free to reach out to me kgoutham745@gmail.com
 
+Happy note-taking with the Notes Manager App!
