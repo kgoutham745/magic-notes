@@ -18,7 +18,7 @@ To use CodexIO, follow these steps
 
 -Clone the repository to your local machine using the following command: 
 ```
-git clone https://github.com/kgoutham745/codex-io.git
+git clone https://github.com/kgoutham745/magic-notes.git
 ```
 
 -Open the index.html file in your preferred web browser.
